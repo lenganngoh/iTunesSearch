@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">iTunesSearch</string>
+
+    <string name="str_artwork_placeholder">Track Artwork</string>
+</resources>
